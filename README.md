@@ -1,5 +1,5 @@
 <div align="center" id="badges">
-    <img src="[(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVpaHdmZmJjcjN0bTk1MWp5NzdwZmdmaW5yNjRuc21rOWptbzEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif) "]alt="Instagram Badge"/>
+    <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVpaHdmZmJjcjN0bTk1MWp5NzdwZmdmaW5yNjRuc21rOWptbzEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif"]/>
 </div>
 
 <div align="center" id="badges">
