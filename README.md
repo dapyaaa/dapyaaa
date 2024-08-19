@@ -1,3 +1,6 @@
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
 <div align="center" id="badges">
   <a href="https://www.instagram.com/dapyaaa_/?next=%2F">
