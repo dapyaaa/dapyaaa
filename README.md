@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/GeimqsH0TLDt4tScGw" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vibes-vibing-vibin-GeimqsH0TLDt4tScGw">via GIPHY</a></p> width="100"/>
+  <iframe src="https://giphy.com/embed/GeimqsH0TLDt4tScGw" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe width="100"/>
 </div>
 
 <div align="center" id="badges">
