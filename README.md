@@ -25,9 +25,10 @@
 
 ###  :man_technologist: About Me :
 
-- 🏫 I study at SMKN 1 Sayung majoring in software development, especially websites
+- 🧠 I prefer to learn the backend
 - ♥️ i love music and playing game
 - ⏲️ in my free time, i watch some meme on Instagram
+- 🗓️ time management is also a habit
 
 ### :fire: My Stats :
 
